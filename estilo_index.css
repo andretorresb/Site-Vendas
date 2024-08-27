@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: rgb(19, 19, 59);
+    height: 70px;
+}
+
+.margem{
+    width: 400px;
+    display: flex;
+    margin-inline: auto;
+    height: 100%;
+}
+
+a.menu{
+    height: 100%;
+    padding: 3%;
+}
+a.menu:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+img.menu{   
+    height: 100%;
+}

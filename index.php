@@ -1,19 +1,19 @@
-<!DOCTYPE hmtl>
+<!DOCTYPE html>
 <html lang="pt-br">
-	<head>   
-		<title>Meu Portfolio</title>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" type="text/css" href="estilo-index.css">
-	</head>
-	<body> 
-		<header class="cabecalho">
-			<img src="imagens/icone-github.png">
-			<h4>André Torres da Cruz</h4>
-			<nav class="menu">
-				<button>Sobre Mim</button>
-				<button>Certificados</button>
-				<button>Habilidades</button>
-			</nav>
-		</header>
-	</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Vendas</title>
+    <link rel="stylesheet" href="estilo_index.css">
+</head>
+<body>
+    <header>
+        <main class="margem">
+            <a href="menu.php" class="menu">
+                <img src="imagens/menu.png" class="menu">
+            </a>
+        </main>
+    </header>
+    
+</body>
 </html>
